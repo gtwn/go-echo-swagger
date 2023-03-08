@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/gtwn/go-echo-swagger/app/api/server"
-	_ "github.com/gtwn/go-echo-swagger/app/api/docs"
+	_ "github.com/gtwn/go-echo-swagger/docs"
 
 	"github.com/labstack/echo/v4"
 	echoSwagger "github.com/swaggo/echo-swagger"
