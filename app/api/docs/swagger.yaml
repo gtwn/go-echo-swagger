@@ -25,4 +25,6 @@ paths:
           schema:
             type: string
       summary: Health Check
+      tags:
+      - ping
 swagger: "2.0"

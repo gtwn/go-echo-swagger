@@ -1,4 +1,4 @@
-module gtwn/go-echo-swagger
+module github.com/gtwn/go-echo-swagger
 
 go 1.20
 

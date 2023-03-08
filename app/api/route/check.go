@@ -4,6 +4,7 @@ import "github.com/labstack/echo/v4"
 
 // HealthCheckHandler godoc
 // @summary Health Check
+// @tags ping
 // @description Health checking for the service
 // @id HealthCheckHandler
 // @produce plain

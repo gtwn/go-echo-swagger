@@ -30,6 +30,9 @@ const docTemplate = `{
                 "produces": [
                     "text/plain"
                 ],
+                "tags": [
+                    "ping"
+                ],
                 "summary": "Health Check",
                 "operationId": "HealthCheckHandler",
                 "responses": {

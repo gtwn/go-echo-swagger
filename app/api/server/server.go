@@ -1,7 +1,7 @@
 package server
 
 import (
-	"gtwn/go-echo-swagger/app/api/route"
+	"github.com/gtwn/go-echo-swagger/app/api/route"
 	"github.com/labstack/echo/v4"
 )
 
